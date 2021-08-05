@@ -1,0 +1,10 @@
+{
+    "html.format.wrapLineLength": 0,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".css",
+            "savePath": "~/../css/"
+        }
+    ]
+}
